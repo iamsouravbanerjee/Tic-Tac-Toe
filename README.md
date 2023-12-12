@@ -12,9 +12,9 @@ Tic Tac Toe's digital adaptation has proliferated through various platforms, fro
 
  - Our goal is to create a prototype of the well-known Tic Tac Toe.
 
-## About this Game (Khai - Khai):
+## About this Game (Tic Tac Toe):
 
-In our project, we have chosen to develop the well-known game "Snake" using VB 6.0. The game features a compact size, and both the code and graphics are straightforward, making it an excellent VB project for beginners. The game is structured into three levels: easy, medium, and hard, providing players with varying levels of difficulty to enhance their gaming experience.
+This Python project brings you the classic "Tic Tac Toe" game in a compact and intuitive form, perfect for Python beginners. The code is clean and easy to understand, with straightforward graphics for a seamless gaming experience. Dive into the world of Python programming and classic gaming with our Tic Tac Toe project – a perfect blend of simplicity and entertainment!
 
 ## Real-world/Business Objectives and Constraints:
 
